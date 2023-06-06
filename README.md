@@ -1,8 +1,4 @@
-# Django Channels Tutorial
-
-## Want to learn how to build this?
-
-Check out the [tutorial](https://testdriven.io/blog/django-channels/).
+# Django Channels
 
 ## Want to use this project?
 
